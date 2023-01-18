@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog xmlns:Book = "http://www.aptechworldwide.com"
+		 xmlns:Library = "http://www.library.com">
+	<Book:BookList>
+	<Book:Title Book:genre="Fiction">Programming in Java </Book:Title>
+	<Book:author >John David </Book:author>
+	<Book:price >$ 456 </Book:price>
+	</Book:BookList>
+
+
+	<Library:List>
+	<Library:Title>Oxford Library</Library:Title>
+	<Library:author>David</Library:author>
+	</Library:List>
+</Catalog>

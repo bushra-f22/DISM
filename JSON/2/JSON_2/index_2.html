@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body onload="xyz()">
+    <script>
+        function xyz()
+        {
+        var jsonvalue={"Title":"Frozen","Year":2014,"Director":"Chris Austen","Writer":"James Johnson","Poster":"images/frozen_pos.jpg"};
+        var js_object=JSON.stringify(jsonvalue);
+        document.getElementById("data").innerHTML = js_object;
+        }
+    </script>
+<p id="data"></p>
+
+
+</body>
+
+</html>

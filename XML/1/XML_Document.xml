@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE student[
+<!ELEMENT student (id,name,dob,batch_code,bloodgroup)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT dob (#PCDATA)>
+<!ELEMENT batch_code (#PCDATA)>
+<!ELEMENT bloodgroup (#PCDATA)>
+]>
+<student>
+<id>001</id>
+<name>Muhammad Ali</name>
+<dob>12-Aug-2002</dob>
+<batch_code>2203B3</batch_code>
+<bloodgroup>A Positive</bloodgroup>
+
+<id>002</id>
+<name>Sara Khan</name>
+<batch_code>2201B2</batch_code>
+<bloodgroup>B positive</bloodgroup>
+</student>

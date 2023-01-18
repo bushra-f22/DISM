@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bookdetails>
+	<programing_book>
+	<id>c_001</id>
+	<name>c#</name>
+	<author>Mr kelvin</author>
+	<edition>4th</edition>
+	</programing_book>
+
+	<story_book>
+	<id>hp_002</id>
+	<name>harry Potter</name>
+	<author>Mr John</author>
+	<edition>5th</edition>
+	</story_book>
+</bookdetails>
+

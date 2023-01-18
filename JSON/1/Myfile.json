@@ -1,0 +1,12 @@
+{
+"Name":"Muhammad Ali",
+"Age":34,
+"Email":"ma@gmail.com",
+"Image":"images/pic.jpg",
+"Subject":["HTML","CSS","Javascript","XML"],
+"Faculty":["Sir Hamza","Miss Sana","Miss Sadia"],
+"Address":{
+    "PA":"north sec 15/d ",
+    "Postalcode" :7890
+}
+}

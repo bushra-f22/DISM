@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="product.xslt"?>
+<products>
+<product>
+	<id>P-001</id>
+	<name>Pepsi</name>
+	<price>10</price>
+</product>
+<product>
+	<id>P-002</id>
+	<name>7-up</name>
+	<price>8</price>
+</product>
+<product>
+	<id>P-003</id>
+	<name>Dew</name>
+	<price>25</price>
+</product>
+<product>
+	<id>P-004</id>
+	<name>Sting</name>
+	<price>3</price>
+</product>
+<product>
+	<id>P-005</id>
+	<name>Co-cacola</name>
+	<price>12</price>
+</product>
+<product>
+	<id>P-006</id>
+	<name>Sugar</name>
+	<price>50</price>
+</product>
+</products>

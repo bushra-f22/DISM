@@ -1,0 +1,60 @@
+[
+    {
+        "id":1,
+        "image":"images/img1.jpg",
+        "name":"Furr Silver Crown Blue Ballpoint Pen",
+        "price":"Rs.475",
+        "inventory":4,
+        "productcode":"F203"
+    },
+
+    {
+        "id":2,
+        "image":"images/img2.jpg",
+        "name":"Diamond Clutch Cute Pencil",
+        "price":"Rs.185",
+        "inventory":6,
+        "productcode":"D433"
+    },
+    {
+        "id":3,
+        "image":"images/img3.jpg",
+        "name":"TSC Spiral Notebook Style",
+        "price":"Rs.550",
+        "inventory":3,
+        "productcode":"T103"
+    },
+    {
+        "id":4,
+        "image":"images/img4.jpg",
+        "name":"Diamond Lovely Modeling Gel Pen",
+        "price":"Rs.156",
+        "inventory":7,
+        "productcode":"D220"
+    },
+    {
+        "id":5,
+        "image":"images/img5.jpg",
+        "name":"M&G Glue Glitter Color",
+        "price":"Rs.845",
+        "inventory":8,
+        "productcode":"M145"
+    },
+    {
+        "id":6,
+        "image":"images/img6.jpg",
+        "name":"TSC Kraft Lined Pages Notebook",
+        "price":"Rs.650",
+        "inventory":5,
+        "productcode":"T852"
+    },
+    {
+        "id":7,
+        "image":"images/img6.jpg",
+        "name":"TSC Kraft Lined Pages Notebook",
+        "price":"Rs.650",
+        "inventory":5,
+        "productcode":"T852"
+    }
+
+]

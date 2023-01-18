@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Customer SYSTEM 'customerdata.dtd'>
+<Customer>
+<fname>Muhammad</fname>
+<lname>Ather</lname>
+<city>Karachi</city>
+<state>Sindh</state>
+<country>Pakistan</country>
+</Customer>

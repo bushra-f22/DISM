@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Mail[
+<!ELEMENT Mail (To,From,Subject,Message)>
+<!ELEMENT To (#PCDATA)>
+<!ELEMENT From (#PCDATA)>
+<!ELEMENT Subject (#PCDATA)>
+<!ELEMENT Message (#PCDATA)>
+]>
+<Mail>
+
+<To>mariumyounus@aptechnorth.edu.pk</To>
+<From>2203B3@aptechnorth.edu.pk</From>
+<Subject>Semester end party</Subject>
+<Message>Dear Students, You all are invited with this exciting get together</Message>
+
+</Mail>

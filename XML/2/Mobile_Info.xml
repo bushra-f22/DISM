@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Mobile [
+<!ELEMENT Mobile (Company,Model,Price,Access)>
+<!ELEMENT Company (#PCDATA)>
+<!ELEMENT Model (#PCDATA)>
+<!ELEMENT Price (#PCDATA)>
+<!ELEMENT Access (#PCDATA)>
+<!ATTLIST Model type CDATA "samsung A52" >
+<!ATTLIST Model color CDATA "black" >
+<!ENTITY ST "Storage 64 GB" > 
+<!ENTITY PS "Processor Silver Core" >
+<!ENTITY CAM "Camera 48 mg/px" >
+]>
+<Mobile>
+<Company>Samsung</Company>
+<Model></Model>
+<Price>65000 Rs</Price>
+<Access> &ST; &PS; &CAM;</Access>
+</Mobile>
